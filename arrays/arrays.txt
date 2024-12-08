@@ -1,0 +1,1 @@
+GFG article on arrays - https://www.geeksforgeeks.org/array-data-structure-guide/ 

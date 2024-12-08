@@ -45,8 +45,5 @@ public class LearnMap {
 
         //To check if map is empty or not.
         System.out.println(mp.isEmpty());
-
-
     }
-
 }
