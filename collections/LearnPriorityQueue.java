@@ -27,7 +27,6 @@ public class LearnPriorityQueue {
         pqm.offer(301);
         pqm.offer(560);
         pqm.offer(32);
-        System.out.println(pqm);
-        
+        System.out.println(pqm);        
     }
 }

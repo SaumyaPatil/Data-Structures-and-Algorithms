@@ -79,8 +79,5 @@ public class LearnArrayList{
             System.out.print(iterator.next() + " ");
         }
         System.out.println();
-
-
-
     }
 }

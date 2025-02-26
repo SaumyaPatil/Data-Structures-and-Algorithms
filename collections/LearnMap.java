@@ -37,7 +37,7 @@ public class LearnMap {
             System.out.println(key);
         }
 
-        // for(Integer value = mp.values()){
+        // for(Integer value : mp.values()){
         //     System.out.println(value);
         // }
 
