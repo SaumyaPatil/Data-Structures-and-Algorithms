@@ -5,7 +5,8 @@ import java.util.Stack;
 import linkedlists.Node;
 
 public class stacks_using_linkedlists {
-
+    //TC: O(1) - for all push pop and peek as we are not performing any traversal over the list but we are performing operations through current pointer only!
+    //SC: O(N) - auxilary space stack space
     Node head;
     stacks_using_linkedlists(){
         this.head = null;
